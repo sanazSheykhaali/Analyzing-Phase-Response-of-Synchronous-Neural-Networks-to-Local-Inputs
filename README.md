@@ -11,5 +11,5 @@ Knowing the phase response curve of a network, we show that it is possible to pr
 # Charts
 TODO: Describe about the plots a little here. (masalan begu chart result haye ma dar folan folder plots ghabele moshahede hastand va har plot parameter hash ham tu hamun file set shode ch maghadiri budan vase run. va begu masalan kolan parameter hamun ham x y z budan.)
 
-#Code
+# Code
 TODO: Describe about the code a little here. (masalan benevis ma code baresi ekhtelal ro dar inja gharar dadeim hamchin chizi)
