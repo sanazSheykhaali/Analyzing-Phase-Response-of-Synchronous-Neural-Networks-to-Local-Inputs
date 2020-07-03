@@ -15,5 +15,3 @@ The aforementioned result gives us a new controlling tool in transmitting the in
 # Plot
 Here is the modeling of neuron, from single neuron to neural network by the Hodgkin-Huxley model and also calculating the PRC of each of them. We used Euler method to simulate a balanced neural network with differential equations that describes the evolution of membrane potential of neurons.
 
-# Code
-TODO: Describe about the code a little here. (masalan benevis ma code baresi ekhtelal ro dar inja gharar dadeim hamchin chizi)
